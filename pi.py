@@ -1,6 +1,3 @@
-import math
-from functools import partial
-import operator as op
 
 chars = 'abcdefghijklmnopqrstuvxyz.? '
 def encoding(number):
